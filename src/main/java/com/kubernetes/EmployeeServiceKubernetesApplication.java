@@ -33,8 +33,6 @@ public class EmployeeServiceKubernetesApplication {
 		repository.save(new Employee(2L, 3L, "Andrew Campton", 30, "Manager"));
 		repository.save(new Employee(2L, 4L, "Steve Franklin", 25, "Developer"));
 		repository.save(new Employee(2L, 4L, "Elisabeth Smith", 30, "Developer"));
-		
-		repository.save(new Employee(2L, 4L, "Gaby Cortes", 19, "Administradora"));
-		return repository;
+                return repository;
 	}
 }
