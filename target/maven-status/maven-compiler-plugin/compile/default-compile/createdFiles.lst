@@ -1,0 +1,4 @@
+com/kubernetes/EmployeeServiceKubernetesApplication.class
+com/kubernetes/model/Employee.class
+com/kubernetes/controller/EmployeeController.class
+com/kubernetes/repository/EmployeeRepository.class
